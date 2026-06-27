@@ -4,9 +4,10 @@ This is the easy way. About 10 minutes, once.
 
 ---
 
-## Step 1 — Get Claude
-- Download the **Claude** app (Mac/Windows) from **claude.ai/download**, or just use
-  **claude.ai** in your browser.
+## Step 1 — Get the Claude app
+- Download the **Claude** app for your computer (Mac or Windows) from
+  **claude.ai/download**. Install it and sign up. *(There's also a browser version at
+  claude.ai if you ever need it, but the app is easiest — just use that.)*
 - You'll want the **Pro plan** (~£17/month) so you can make Projects and upload files.
 
 ## Step 2 — Download this kit as a folder

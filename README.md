@@ -14,6 +14,9 @@ There are three:
 You don't need to remember the skill names — just ask Claude in plain English and it
 picks the right one.
 
+> **Not techy? Start here →** open **[APP-SETUP.md](APP-SETUP.md)** for the easy,
+> no-terminal way to set this up in the Claude app. 💛
+
 ---
 
 ## Step 1 — Fill in your business (5 mins, do this once)

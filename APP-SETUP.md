@@ -10,6 +10,15 @@ This is the easy way. About 10 minutes, once.
   claude.ai if you ever need it, but the app is easiest — just use that.)*
 - You'll want the **Pro plan** (~£17/month) so you can make Projects and upload files.
 
+### 👋 Stuff you can safely ignore
+When you first open Claude it might show you some "advanced" bits. **You don't need
+any of these** for this kit — just skip past them:
+- A **"Customize Claude"** screen with *Create new skills / Browse plugins / connectors* → skip it.
+- A pop-up asking to install **"git" / "command line developer tools"** → click **Cancel**.
+- A **"Claude in Chrome" browser extension** asking to work on all sites → **skip / don't allow** for now.
+
+All you need is **Projects** (Step 4). The rest is for techy power-users — not us. 💛
+
 ## Step 2 — Download this kit as a folder
 - Go to the kit page: **https://github.com/plug-growth/claude-marketing-starter-kit**
 - Click the green **`< > Code`** button → **Download ZIP**.

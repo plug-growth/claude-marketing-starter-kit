@@ -3,63 +3,78 @@
 Covers Maisie's holiday (back 11 Oct). Matches the reduced scope agreed in July:
 **2 posts on Yanwen's LinkedIn, 2 on the company page, 2 website articles.**
 
-Angle for the week: the ICP is now smaller operators with **no automation yet**, starting
-from zero. So everything leans towards "start small, keep your options open, prove it
-first". This is also the run-up to peak, which is the hook for the second half of the week.
+**Who it's for:** the ICP agreed in July, smaller 3PLs with **no automation yet**.
+**How topics were chosen:** questions first-time buyers are actually asking that
+content.floxmind.com hasn't answered yet (checked against all ~30 posts live as of 3 Oct,
+and the company LinkedIn feed since June).
 
-> **Before anything goes live:** Yanwen signs off everything public. Send her this pack
-> (yanwen@phinxt.com, not the old floxmind.com address). The numbers used are the same ones
-> from the June Q&A piece (20–40% throughput, up to 70% labour, 98%+ uptime, ROI in 4–12
-> months, 100+ robot models). Ask her to confirm they're still the ones she's happy with.
+> **Before anything goes live:** Yanwen signs off everything public. Send to
+> yanwen@phinxt.com (not the old floxmind.com address). Points for her to confirm are
+> flagged with ⚠️ throughout.
 
 ---
 
 ## Schedule
 
-| Day | Channel | Piece | Pillar |
+| Day | Channel | Piece | Buyer question it answers |
 |---|---|---|---|
-| Mon 5 Oct | Website | Article 1: *Five decisions to get right before you buy your first warehouse robot* | 5 Vendor independence / 7 In practice |
-| Mon 5 Oct | Company LinkedIn | Post C1, promotes Article 1 | 5 |
-| Tue 6 Oct | Yanwen LinkedIn | Post Y1: "Which robot?" is the wrong first question | 1 Architecture shift |
-| Thu 8 Oct | Website | Article 2: *Not automating before peak? Use this one to build your business case* | 2 Operational reality / 4 Speed to value |
-| Thu 8 Oct | Yanwen LinkedIn | Post Y2: "After peak" is a plan, not a delay | 4 Speed to value |
-| Fri 9 Oct | Company LinkedIn | Post C2, promotes Article 2 | 2 |
+| Mon 5 Oct | Website | **Article 1:** Short client contracts, long automation payback: how 3PLs automate anyway | "My contracts run 1–3 years. How can I justify automation?" |
+| Mon 5 Oct | Company LinkedIn | **C1**, promotes Article 1 | as above |
+| Tue 6 Oct | Yanwen LinkedIn | **Y1:** Throughput isn't the problem. Confidence is. | "Why do so few people trust the ROI?" |
+| Thu 8 Oct | Website | **Article 2:** Can you automate a warehouse you lease? | "My lease ends in two years. Can I still automate?" |
+| Thu 8 Oct | Yanwen LinkedIn | **Y2:** "After peak" is a plan, not a delay | "Should we wait until after peak?" |
+| Fri 9 Oct | Company LinkedIn | **C2**, promotes Article 2 | as above |
 
-Best posting times for this audience: weekday mornings, 8–9am UK.
+Post weekday mornings, 8–9am UK.
+
+**No overlap with what's live:** the closest existing pieces are *Multi-Client Warehouse
+Automation* (3 Sep, about sharing robots across clients, not contract risk) and *How to
+Calculate Warehouse Automation ROI* (21 Jul). Article 1 links to both. Nothing on the blog
+covers leased buildings.
 
 ---
 
 ## Yanwen's LinkedIn
 
-### Y1 (Tue 6 Oct): "Which robot?" is the wrong first question
+### Y1 (Tue 6 Oct): Throughput isn't the problem. Confidence is.
 
-> The most expensive question in warehouse automation is "which robot should we buy?"
+> 83% of 3PLs say automation has increased their throughput.
 >
-> Not because robots are expensive (they are). Because it's the wrong first question, and
-> answering it first locks in everything that comes after.
+> Only 33% are confident it will pay back on schedule.
 >
-> Most robots ship with control software built to run that vendor's machines. Only that
-> vendor's machines. Pick the robot first and you've quietly picked your architecture,
-> your roadmap and your next five years of suppliers too.
+> That's from a survey of 100+ logistics professionals published in August, and I think
+> the gap between those two numbers explains why so many operators are still sitting on
+> the fence.
 >
-> Then the business grows. You need a different type of machine for a different job. And
-> you find out you don't have one automated warehouse. You have two, sharing a building and
-> fighting over the same aisles.
+> The robots work. That part is mostly solved. What isn't solved is the bit in between:
+> turning "the machines are faster" into "the business is better off, on the timeline we
+> promised the board".
 >
-> The robots rarely fail. They usually hit their spec. The return leaks away in the gaps
-> between them, where nothing is coordinating the whole floor.
+> In my experience, that gap opens up in three places:
 >
-> So the question I'd ask first is:
-> "What setup lets any machine we choose work as one system, and keep working as we grow?"
+> 1. The business case was built on a vendor's assumptions, not your own operation's data
+> 2. The whole floor was committed before anything was proven
+> 3. The robots were never coordinated, so people quietly fill the gaps by hand, and the
+>    labour saving never shows up in the numbers
 >
-> Answer that, and "which robot?" becomes a much easier, much cheaper decision. And one you
-> get to make again next year.
+> None of these are technology problems. They're sequencing problems.
 >
-> If you're about to start your first automation project, I'm happy to talk it through.
-> No pitch, just the questions worth asking.
+> So if you're weighing up your first automation project, I'd worry less about whether
+> the robots will perform, and more about whether you'll be able to *prove* they did.
+> Start in one area. Agree the targets before you start. Measure against your own
+> baseline. Scale only when the numbers say so.
+>
+> Confidence comes from evidence, not from a bigger brochure.
 
-**Visual:** text-only works best for founder posts. If a graphic is wanted: a simple
-two-column card, "Robot first → locked in" vs "Architecture first → free to choose".
+**First comment:** "Survey: Datex and Elastic Solutions, *The 3PL AI & Automation Playbook*,
+August 2026" + link: https://in-supply.co.uk/3pl-automation-gains-expose-widening-roi-confidence-gap/
+
+⚠️ **For Yanwen:** the survey respondents were mostly North American. Fine to quote as-is,
+but she may want to add "in the US" if asked. The "three places" are written as her
+view. She should change them if they don't match what she sees.
+
+**Visual:** text-only. Optional: a plain stat card, "83% got more throughput / 33% trust
+the payback".
 
 ---
 
@@ -72,24 +87,22 @@ two-column card, "Robot first → locked in" vs "Architecture first → free to 
 >
 > But "after peak" only works if you use peak.
 >
-> The next couple of months will tell you more about where automation would pay back than any
-> consultant's spreadsheet. Where the queues form. Which jobs you can't hire for. What your
-> overtime bill actually looks like. Where a missed SLA really came from.
+> The next couple of months will tell you more about where automation would pay back
+> than any vendor's spreadsheet. Where the queues form. Which shifts you can't fill.
+> What your overtime bill actually looks like. Where a missed SLA really came from.
 >
-> Write it down while it's happening. By January, everyone remembers peak as "busy". That
-> won't build a business case.
+> Write it down while it's happening. By January, everyone remembers peak as "busy".
+> "Busy" won't get a business case past your finance director. Specifics will.
 >
-> Then start small. One zone, one workflow, live data, measured against targets you agreed
-> up front. Prove the return before you commit the whole floor. If it doesn't prove out,
-> you've learned something cheaply. If it does, you scale from evidence, not hope.
+> Then in the new year, start small: one area, live data, targets agreed up front. Prove
+> the return before you commit the whole floor.
 >
-> Done well, coordinated automation typically lifts throughput by 20–40%, with ROI in 4–12
-> months. But only if you start from your real bottlenecks, not a vendor's brochure.
->
-> We've put together a short guide on what to capture this peak. Link in the comments.
+> We've written up how to turn that data into a business case. Link in the comments.
 
-**First comment:** link to Article 2.
-**Visual:** none needed, or a photo of Yanwen on site if there's a recent one.
+**First comment:** link to the existing article *How to Calculate Warehouse Automation ROI:
+A 3PL's Method for Building the Business Case* (21 Jul). This gets an old piece working
+again.
+**Visual:** none needed, or a recent on-site photo of Yanwen if there is one.
 
 ---
 
@@ -97,49 +110,54 @@ two-column card, "Robot first → locked in" vs "Architecture first → free to 
 
 ### C1 (Mon 5 Oct): promotes Article 1
 
-> Thinking about your first warehouse automation project?
+> Most 3PL client contracts run one to three years.
+> Most automation business cases assume three to five.
 >
-> The biggest risks get locked in before a single robot arrives. They're in decisions that
-> feel small at the time:
+> That mismatch is one of the biggest reasons 3PLs hold off on automation. If the client
+> the system was built around leaves, you're left paying for capacity you no longer need.
 >
-> → Choosing a robot before choosing an architecture
-> → Signing up to one vendor's control software for everything
-> → Assuming you'll need an in-house robotics team
-> → Committing the whole floor before proving the return
-> → Treating it as a one-off CapEx project rather than something that grows with you
+> It's a real risk. But it's a risk in *how* automation is usually bought, not in
+> automation itself.
 >
-> Our new article walks through the five decisions worth getting right first, and how to
-> keep your options open while you make them.
+> Our new article covers how 3PLs are getting round it:
+>
+> → Build the case at facility level, not client by client
+> → Choose mobile robots that can be redeployed, not fixed kit that's built into the building
+> → Match your costs to your contracts with a subscription model
+> → Stay vendor-neutral, so the next client's needs don't mean starting again
+> → Prove it on your steadiest work first
 >
 > Read it here: [link to Article 1]
 >
-> #WarehouseAutomation #3PL #Logistics
+> #3PL #WarehouseAutomation #Logistics
 
-**Visual:** 5-slide carousel or single card. Cover line: "5 decisions to get right before
-you buy your first robot". One decision per slide.
+**Visual:** a simple timeline graphic, "Client contract: 1–3 yrs" bar vs "Typical
+payback: 3–5 yrs" bar, with "Subscription: monthly, matches your contracts" underneath.
 
 ---
 
 ### C2 (Fri 9 Oct): promotes Article 2
 
-> Not automating before peak? Good. Now make peak work for you.
+> "We'd automate, but we lease the building."
 >
-> The next couple of months are the best evidence you'll get all year for where automation would
-> actually pay back. Here's what to capture while it's happening:
+> It's a fair concern. Most warehouses are leased, and nobody wants to put in kit they'll
+> have to rip out (and pay to reinstate) when the lease ends.
 >
-> 📍 Where work queues, and at what time of day
-> 👷 Which roles you couldn't fill, and what agency cover cost
-> ⏱️ Overtime hours, week by week
-> 📦 Every missed SLA, and the real cause behind it
-> 🔁 Which tasks are repetitive, high-volume and easy to measure
+> But not all automation is built into the building. Mobile robots run on your existing
+> floor, and a software layer goes with you when you move.
 >
-> Capture it now and January's automation conversation starts from facts, not memory.
+> Our latest article covers:
 >
-> The full guide: [link to Article 2]
+> 📄 What to check in your lease before you start
+> 🏗️ Which kinds of automation work in a leased site (and which don't)
+> 🚚 What happens to your automation when you move
+> ✅ Questions to ask any vendor
 >
-> #Peak2026 #WarehouseAutomation #3PL
+> Read it here: [link to Article 2]
+>
+> #WarehouseAutomation #3PL #Logistics
 
-**Visual:** single "peak checklist" card with the five items. Works as a save-able graphic.
+**Visual:** single card, "Fixed into the building ✗ / Moves with you ✓" two-column list.
 
 ---
 
@@ -147,173 +165,239 @@ you buy your first robot". One decision per slide.
 
 ### Article 1 (Mon 5 Oct)
 
-**Title:** Five decisions to get right before you buy your first warehouse robot
-**Meta description:** Planning your first warehouse automation project? These five early
-decisions shape your costs, flexibility and ROI for years. Here's how to get them right.
-**Suggested slug:** /first-warehouse-automation-project-decisions
-**Target search terms:** first warehouse automation project, warehouse automation for 3PLs,
-how to start warehouse automation
+**Title:** Short client contracts, long automation payback: how 3PLs automate anyway
+**Meta description:** 3PL client contracts often run 1–3 years, but automation payback
+can take longer. Here's how 3PLs de-risk automation so it survives client churn.
+**Suggested slug:** /3pl-automation-short-client-contracts
+**Category:** Warehouse Automation
+**Target search terms:** 3PL warehouse automation ROI, 3PL automation contract length,
+automation for third-party logistics, robotics as a service 3PL
 
 ---
 
-If you're running a warehouse without automation today, you're in a better position than
-you might think.
+If you run a 3PL, you've probably had this conversation with yourself.
 
-You don't have legacy kit to work around or a past project to justify. And you get to learn
-from the operators who went first, many of whom found that their biggest problems weren't
-caused by the robots at all.
+Automation would help. Labour is hard to find, clients want faster turnaround, and you
+can see the processes that would benefit. But your client contracts run one to three
+years, and the automation business cases you've seen assume three to five.
 
-Automation rarely fails because the technology doesn't work. It fails because early
-decisions introduce risk, rigidity and cost before any value has been proven. Here are the
-five decisions worth getting right before you buy anything.
+So what happens if the client you automated for walks away in year two?
 
-#### 1. Choose your architecture before you choose your robot
+It's one of the most common reasons 3PLs hold off. Industry analysts have long pointed to
+short contract lengths as the main thing stopping 3PLs from investing in automation. And
+it's a fair concern. A system engineered around one client's volume and product range can
+end up oversized and underused when that client leaves.
 
-The natural first question is "which robot should we buy?" It's also the most expensive
-one to answer first.
+But the risk comes from *how* automation has traditionally been bought, not from
+automation itself. Here's how to build an automation plan that survives client churn.
 
-Most robots ship with control software designed to run only that vendor's machines. Choose
-the robot first and you've also chosen your architecture, your upgrade path and, quite
-possibly, your supplier for every future machine.
+#### 1. Build the case at facility level, not client by client
 
-Start instead with: *what setup will let any machine we choose work as one system, and keep
-working as we grow?* An orchestration layer that sits above your robots and below your WMS
-means the hardware decision stays a hardware decision. You can pick the best machine for
-each job, and pick differently next year.
+The traditional approach is to justify automation against a specific client: their
+volume, their SKUs, their contract. That ties the investment to the account most likely to
+change.
 
-#### 2. Don't let one vendor own your roadmap
+Instead, look at the work that's common across your clients. Goods-in, putaway, picking
+travel, pallet movement, despatch. These flows exist whoever your clients are. Automation
+that improves them earns its keep across your whole book of business, not just one
+contract.
 
-Single-vendor setups feel simpler at the start. One contract, one support line, one system.
+The question shifts from "will this client stay long enough?" to "will this building keep
+doing this kind of work?" For most 3PLs, the answer to the second is yes.
 
-The cost shows up later. When you need a different type of machine, say pallet movement
-alongside picking, you either buy from the same vendor whether or not they're the best fit,
-or you end up running two systems that can't coordinate. You don't get one automated
-warehouse. You get two that happen to share a building.
+#### 2. Choose automation that can move
 
-A robot-agnostic approach keeps your negotiating power and your options intact. FloxMind
-coordinates more than 100 robot models across multiple brands for exactly this reason.
+Not all automation carries the same churn risk.
 
-#### 3. Don't assume you need a robotics team
+Fixed systems, like large automated storage, conveyors and shuttle systems, are engineered
+into the building around a particular flow. If that flow changes, they're expensive to
+adapt.
 
-Many operators hold off on automation because they think they'll need to hire specialists
-to run it. If your automation only works when an engineer is on the floor reprogramming it,
-that's a fair worry. You haven't bought flexibility, you've bought a dependency.
+Mobile robots work differently. They run on your existing floor, can be redeployed
+between zones and clients as work changes, and can be added or removed as volumes move.
+When one client winds down and another onboards, the robots go to wherever the work is.
 
-The right architecture absorbs that complexity for you. Rebalancing work, adding a robot or
-handling a demand spike shouldn't need a technical project every time. Good architecture
-should make change cheap.
+For a business whose client mix is always moving, flexible kit is the safer bet.
 
-#### 4. Prove the return before you commit the whole floor
+#### 3. Match your costs to your contracts
 
-The traditional approach is a big design, a big install and a payback date you're asked to
-trust.
+A large upfront capital purchase is a bet on the next five-plus years. A subscription is
+a commitment you can size to the business you have today.
 
-A phased approach is safer and usually faster to value:
+With a robotics-as-a-service model, automation becomes a predictable operating cost
+rather than a capital project. It also becomes easier to reflect in your client pricing,
+because it behaves like your other operating costs. You can start small, and grow or
+reshape the deployment as contracts change.
 
-1. **Evaluate** your workflows to find where automation would genuinely pay back.
-2. **Pilot** in one contained area, on live data, measured against targets you agreed
-   up front.
-3. **Roll out** wider only once the pilot proves out.
+⚠️ *For Yanwen: confirm how FloxMind wants to describe its commercial terms here (minimum
+term, scaling up/down) before publishing.*
 
-That turns "trust us" into "here are the numbers". Done well, coordinated automation
-typically delivers 20–40% more throughput, 98%+ system uptime and ROI within 4–12 months.
-But you should see it in your own operation before you scale it.
+#### 4. Stay vendor-neutral
 
-#### 5. Think operating cost, not a one-off capital project
+A new client can mean new product types and new workflows. If your automation is locked
+to one vendor's control software, meeting those needs might mean buying from the same
+vendor whether or not they have the right machine, or running a second system that can't
+work with the first.
 
-Automation doesn't have to mean a large upfront outlay. With a service model, the cost
-moves to predictable operating expenditure that grows with the deployment. You start
-small, prove value, then scale. No big bet on day one, and no stranded investment if your
-needs change.
+A vendor-neutral orchestration layer coordinates robots from different manufacturers as
+one system. FloxMind supports 100+ robot models across multiple brands, so when a new
+client needs something different, you can add the right machine without starting again.
+
+We've written more about this in [Multi-Client Warehouse Automation: Sharing Robots
+Across Customers].
+
+#### 5. Prove it on your steadiest work first
+
+Don't start with the client most at risk of leaving. Start with your most stable,
+predictable flow, where the baseline is clear and results are easy to measure.
+
+Run a contained pilot in one area, on live data, against targets you agreed before you
+started. If it proves out, you've got evidence from your own operation to justify scaling.
+If it doesn't, you've learned something cheaply.
+
+#### 6. Make sure you keep the savings
+
+One step that's easy to miss: check how your contracts handle cost savings. If clients are
+on cost-plus terms, efficiency gains may flow straight back to them. That's not
+necessarily bad, since it can make you more competitive at renewal, but it should be a
+conscious choice. Know who captures the saving before you build the business case around it.
 
 #### The bottom line
 
-Flexibility and scalability aren't features you bolt on later. They're decisions you either
-make, or lose, on day one.
+Short contracts make *rigid* automation risky. They don't make automation itself risky.
 
-If you're planning your first automation project, start with the architecture, keep your
-options open, and prove the return before you commit.
+Build the case on the work your building always does, choose kit that can move with your
+clients, match your costs to your contracts, and prove it before you scale. Then a client
+leaving is a normal business event, not a stranded investment.
 
-**Thinking about where to start?** [Book a conversation with the FloxMind team →]
+For the numbers side, see [How to Calculate Warehouse Automation ROI: A 3PL's Method for
+Building the Business Case].
+
+**Wondering how this would work with your client mix?** [Talk to the FloxMind team →]
 
 ---
 
 ### Article 2 (Thu 8 Oct)
 
-**Title:** Not automating before peak? Use this one to build your business case
-**Meta description:** Peak is the best data you'll get all year on where warehouse
-automation would pay back. Here's what to capture this season, and what to do with it in
-January.
-**Suggested slug:** /peak-season-warehouse-automation-business-case
-**Target search terms:** peak season warehouse, warehouse automation business case,
-warehouse automation ROI
+**Title:** Can you automate a warehouse you lease? What 3PLs need to know
+**Meta description:** Leasing your warehouse doesn't rule out automation. Here's what to
+check in your lease, which automation works in leased sites, and what happens when you move.
+**Suggested slug:** /automate-leased-warehouse
+**Category:** Warehouse Automation
+**Target search terms:** automation in a leased warehouse, warehouse lease automation,
+warehouse robots leased building, should I automate if my lease ends
 
 ---
 
-If you're heading into peak without automation, you're not alone, and you're not wrong.
-October is no time to change how your warehouse runs.
+"We'd automate, but we don't own the building."
 
-But "we'll look at it after peak" only works if you use peak. The next couple of months will put
-your operation under more pressure than any other point in the year. That pressure shows
-you exactly where automation would pay back, if you write it down while it's happening.
+It's a common reason operators hold off, and an understandable one. Most warehouses are
+leased. Leases end, rents go up, and businesses outgrow sites. Nobody wants to install
+expensive kit they might have to leave behind, or pay to rip out when they hand the keys
+back.
 
-By January, most teams remember peak as "busy". That won't get a business case through a
-finance director. Specifics will.
+But leasing doesn't rule out automation. It changes which kind of automation makes
+sense, and what you should check before you start.
 
-#### What to capture this peak
+> *This article is general guidance, not legal advice. Always check the specifics of
+> your lease with your solicitor or surveyor.*
 
-**Where work queues, and when.** Note the zones, the processes and the times of day where
-work backs up. Picking? Packing? Goods-in? Bottlenecks that repeat at the same point every
-day are prime candidates for automation.
+#### Fixed vs mobile: the distinction that matters most
 
-**The roles you couldn't fill.** Track the shifts you struggled to staff and what agency
-cover cost you. Labour availability, not just labour cost, is often the strongest part of
-the case.
+Some automation is built into the building: large automated storage systems, fixed
+conveyors, mezzanine-mounted sortation. These usually involve structural work, are
+designed around a specific layout, and are expensive to dismantle and move. In a leased
+building, they tie your investment to a property you don't control.
 
-**Overtime, week by week.** A weekly overtime figure across peak gives you a hard number
-to set against the cost of automation. With coordinated automation, labour costs can fall
-by up to 70% in the right workflows.
+Other automation runs *on* the building rather than being built into it. Mobile robots
+navigate your existing floor and racking. The software that coordinates them lives in the
+cloud. Neither needs the site to be reshaped around it.
 
-**Every missed SLA, and its real cause.** Not "we were busy", but what actually happened.
-A late carrier collection? A pick backlog? Congestion in one aisle? The root cause tells you
-whether automation would have helped.
+For a leased warehouse, the more of your automation sits in the second group, the less
+your lease end date matters.
 
-**Repetitive, high-volume, measurable tasks.** The best first automation projects are jobs
-that are frequent, predictable and easy to measure. Make a list as you go.
+#### What to check in your lease before you start
 
-**Errors and rework.** Mis-picks, re-packs and returns caused by fulfilment mistakes all
-have a cost. Count them.
+Even mobile automation can touch your lease in a few places. Worth reviewing:
 
-#### What to do with it in January
+- **Alterations clauses.** Some leases need landlord consent for anything beyond minor
+  changes. Charging points, floor markings or extra network infrastructure may count.
+- **Electrical capacity.** Robot charging adds load. Check what your supply can handle
+  and who's responsible for upgrades.
+- **Floor condition.** Mobile robots need a reasonably flat, even floor. Find out whether
+  any floor repairs would fall to you or the landlord.
+- **Reinstatement and dilapidations.** Find out what you'd need to remove or make good
+  when you leave. Mobile kit typically leaves far less behind than fixed systems.
+- **Break clauses and renewal dates.** Know your timeline, and size your commitment to it.
 
-Once peak is over, you'll have something most operators don't: real evidence. Use it to:
+Most of these are quick conversations, not dealbreakers. Having them early saves surprises later.
 
-1. **Rank your bottlenecks** by cost and frequency.
-2. **Pick one contained area** for a pilot, the bottleneck with the clearest numbers.
-3. **Agree targets up front** using your peak data as the baseline: throughput, labour
-   hours, error rates.
-4. **Run the pilot on live data** and measure against those targets.
-5. **Scale only once it proves out**, ideally well before next peak.
+⚠️ *For Yanwen: worth confirming the typical site requirements for the robots FloxMind
+deploys (charging, floor, Wi-Fi, any floor codes) so we can add a line on what's needed.*
 
-Do this well and you go into peak 2027 with automation that's already proven itself in
-your operation, rather than a project that's still being installed.
+#### Matching your commitment to your lease
 
-#### Keep your options open
+Your lease length and your automation commitment should line up. If you've got two years
+left, a five-year capital project doesn't make sense. Automation you can start small,
+pay for as you use it, and scale up or down does.
 
-One last thing. When the time comes to choose a solution, choose the architecture before
-the robot. A vendor-neutral setup means your first project doesn't lock in every decision
-after it, and you can add different machines as your needs change.
+That's where a subscription model helps. Instead of a large upfront purchase that needs
+years to pay back, you pay a predictable operating cost that you can size to the time
+you've got. If you renew, you scale up. If you move, the commitment hasn't outlived the
+building.
 
-Peak is coming either way. Make it the start of your automation plan, not the reason to put
-it off.
+#### What happens when you move
 
-**Want a second pair of eyes on your peak data?** [Talk to the FloxMind team →]
+This is where architecture matters most.
+
+If your automation is locked into one vendor's fixed system, moving usually means starting
+again. If it's mobile robots coordinated by a vendor-neutral software layer, the move looks
+very different. The robots are relocated, the software is set up for the new layout, and
+you're back up and running. Your processes, data and know-how come with you.
+
+A move is also a chance to adjust. If the new site suits a different mix of machines,
+a vendor-neutral setup lets you add or swap robot types without rebuilding everything.
+
+#### Questions to ask any automation vendor
+
+If you lease your site, put these to anyone you're speaking to:
+
+1. What changes to the building does your system need?
+2. What would we need to remove or make good at the end of our lease?
+3. How long would it take to move the system to a new site, and what would it cost?
+4. Can we scale the deployment down if our space or contracts change?
+5. Does your software work with robots from other manufacturers, if our next site needs
+   something different?
+
+Clear answers to these tell you how much of your investment is tied to the building, and
+how much moves with your business.
+
+#### The bottom line
+
+Leasing your warehouse is a reason to choose your automation carefully, not a reason to
+avoid it. Favour kit that runs on the building rather than being built into it, match
+your commitment to your lease, and choose an architecture that moves with you.
+
+**Leasing your site and wondering what's realistic?** [Talk to the FloxMind team →]
 
 ---
 
-## Still to do (not covered by this pack)
+## Still to do
 
-- [ ] Yanwen sign-off on all six pieces
-- [ ] Graphics for C1 (carousel) and C2 (checklist card)
-- [ ] Load articles into HubSpot and schedule (Mon 5 / Thu 8 Oct)
-- [ ] Schedule the four LinkedIn posts, then add the article links once live
+- [ ] Yanwen sign-off on all six pieces (resolve the ⚠️ points)
+- [ ] Graphics: C1 timeline, C2 two-column card (and optional Y1 stat card)
+- [ ] Load articles into HubSpot (content.floxmind.com) and schedule Mon 5 / Thu 8 Oct
+- [ ] Add internal links in Article 1 (Multi-Client, 3 Sep; ROI, 21 Jul)
+- [ ] Schedule the four LinkedIn posts, then add article links once live
+
+## Worth raising with Yanwen at the next catch-up
+
+Most blog posts since August are written for operators who **already have robots**
+(pilots on existing robots, KPIs once running, brownfield, multi-site, shared fleets).
+That's the opposite of the July ICP decision. Suggest the next few months lean back
+towards first-time buyers. Backup topics already lined up from the research:
+
+- How to tell your team you're bringing in robots (staff resistance was named the
+  biggest hurdle by 14% of respondents in the Aug 2026 Datex/Elastic survey)
+- Are we big enough to automate? (order-volume thresholds)
+- Automate now or wait? (equipment costs, interest rates, tariffs)
